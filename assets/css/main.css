@@ -3469,13 +3469,12 @@ input, select, textarea {
 			}
 
 		#wrapper > section.intro > header > * {
-			width: 30rem;
+			width: 20rem;
 		}
 
 		#wrapper > section.intro > header:before {
 			margin-left: calc(50vw - 10rem);
 		}
-
 		@media screen and (max-width: 1152px) {
 
 			#wrapper > section.intro > header > * {
@@ -3489,7 +3488,7 @@ input, select, textarea {
 		}
 
 		#wrapper > section:last-of-type > header:after {
-			left: calc(50vw - 5rem - 0.25rem + 1px);
+			left: calc(50vw - 0rem - 0.25rem + 1px);
 		}
 
 		#wrapper .copyright {
