@@ -235,6 +235,7 @@ input, select, textarea {
 
 	h4 {
 		font-size: 0.875rem;
+		margin: 0 0 0 0;
 	}
 
 	h5 {
@@ -2549,7 +2550,7 @@ input, select, textarea {
 	}
 
 		ul li {
-			padding-left: 0.325rem;
+			padding-left: 0;
 		}
 
 		ul.alt {
@@ -3915,46 +3916,11 @@ input, select, textarea {
 		}
 
 	}
+	.school {
+		line-height: 1.5;
+		margin: 0 0 2rem 0;
+	}
 	#small_para {
 		font-size: small;
 		margin:0;
-	}
-	.school {
-		width: 100%;
-		height: 135px;
-		padding: 0 0 0 0;
-		margin: 0 0 0 0;
-		overflow: auto;
-		display: inline-block;
-		vertical-align: middle;
-	}
-	.school_logo {
-		float:left;
-		width: 200px;
-		margin-right: 20px;
-		position: relative;
-		padding: 3% 0 3% 0 ;
-		vertical-align: middle;
-		text-align: center;
-
-	}
-	.school_logo img {
-		float: left;
-		width: 100%;
-		vertical-align: middle;
-	}
-	.school_stuff{
-		left: 200px;
-		width:auto;
-		padding: 1% 0 1% 0 ;
-		height:auto;
-		float: left;
-		vertical-align: middle;
-	}
-	.school_stuff h3 {
-		margin: 10px 0 0 0;
-	}
-	.school_stuff p {
-		margin: 0;
-		line-height: 1.5;
 	}
