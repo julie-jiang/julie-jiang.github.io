@@ -250,7 +250,7 @@ input, select, textarea {
 		font-weight:600;
 	}
 	h8 {
-		font-size: medium;
+		/*font-size: medium;*/
 	}
 
 	@media screen and (max-width: 736px) {
