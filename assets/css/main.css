@@ -3474,7 +3474,7 @@ input, select, textarea {
 			}
 
 		#wrapper > section.intro > header > * {
-			width: 20rem;
+			/*width: 20rem; comment this out so the title Julie Jiang stays on one line*/
 		}
 
 		#wrapper > section.intro > header:before {
